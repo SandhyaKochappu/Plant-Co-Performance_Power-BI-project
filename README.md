@@ -1,14 +1,10 @@
 # Plant-Co-Performance_Power-BI-project
 
-•	Developed an interactive report featuring switch measures and conditional formatting to enhance data visualization and user experience.
-
-•	Conducted a comprehensive performance analysis for a global plant products company, comparing key metrics across countries for 2023 and 2024.
-
-•	Imported and transformed data from Excel into Power BI, performing necessary data cleaning and preprocessing to ensure accuracy.
-
-•	Implemented dynamic switch parameters to enable users to seamlessly compare annual performance across metrics such as gross profit, sales, and quantity.
-
-•	Applied conditional formatting to highlight year-over-year changes, effectively distinguishing between increases and decreases in performance.
+•	Developed an interactive report featuring switch measures and conditional formatting to enhance data visualization and user experience. 
+•	Conducted a comprehensive performance analysis for a global plant products company, comparing key metrics across countries for 2023 and 2024. 
+•	Imported and transformed data from Excel into Power BI, performing necessary data cleaning and preprocessing to ensure accuracy. 
+•	Implemented dynamic switch parameters to enable users to seamlessly compare annual performance across metrics such as gross profit, sales, and quantity. 
+•	Applied conditional formatting to highlight year-over-year changes, effectively distinguishing between increases and decreases in performance. 
 
 Key Insights obtained from the analysis are as follows. 
 1.	China recorded the largest decline in gross profit in 2023, with a drop of $400K compared to the previous year, followed by Sweden and the United States.
