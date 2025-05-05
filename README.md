@@ -5,10 +5,15 @@
 The project focuses on a performance analysis for a global plant products company, comparing key metrics across countries for 2023 and 2024. Here’s a breakdown of the work:
 
 ✅ Imported and transformed Excel data into Power BI with thorough cleaning and preprocessing
+
 ✅ Implemented dynamic switch parameters for comparing Gross Profit, Sales, and Quantity across years
+
 ✅ Applied conditional formatting to highlight YoY changes in performance
+
 ✅ Designed dynamic chart titles that update based on user-selected metrics
+
 ✅ Enabled drill-down on waterfall charts to explore performance by country and product type
+
 ✅ Added zoom sliders to scatter charts for deeper analysis of accounts with below-average Gross Profit and YTD performance
 
 🔍 Key Insights:
