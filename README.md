@@ -2,20 +2,29 @@
 
 •	Developed an interactive report featuring switch measures and conditional formatting to enhance data visualization and user experience. 
 
-•	Conducted a comprehensive performance analysis for a global plant products company, comparing key metrics across countries for 2023 and 2024. 
+The project focuses on a performance analysis for a global plant products company, comparing key metrics across countries for 2023 and 2024. Here’s a breakdown of the work:
 
-•	Imported and transformed data from Excel into Power BI, performing necessary data cleaning and preprocessing to ensure accuracy. 
+✅ Imported and transformed Excel data into Power BI with thorough cleaning and preprocessing
+✅ Implemented dynamic switch parameters for comparing Gross Profit, Sales, and Quantity across years
+✅ Applied conditional formatting to highlight YoY changes in performance
+✅ Designed dynamic chart titles that update based on user-selected metrics
+✅ Enabled drill-down on waterfall charts to explore performance by country and product type
+✅ Added zoom sliders to scatter charts for deeper analysis of accounts with below-average Gross Profit and YTD performance
 
-•	Implemented dynamic switch parameters to enable users to seamlessly compare annual performance across metrics such as gross profit, sales, and quantity. 
+🔍 Key Insights:
 
-•	Applied conditional formatting to highlight year-over-year changes, effectively distinguishing between increases and decreases in performance. 
+China recorded the largest gross profit decline in 2023 ($400K drop), followed by Sweden and the US
 
-Key Insights obtained from the analysis are as follows. 
-1.	China recorded the largest decline in gross profit in 2023, with a drop of $400K compared to the previous year, followed by Sweden and the United States.
-2.	Significant profit downturns were observed in February for indoor plants and in October for outdoor plants.
-3.	April emerged as the most profitable month in 2023, closely followed by November.
-4.	While the majority of accounts showed strong gross profit performance, a few accounts underperformed significantly during the year.
-5.	The overall gross profit margin in 2023 was 39.62%, reflecting a decrease of $265K compared to the previous year.
-6.	Canada recorded its lowest sales performance in April 2024, with a $73K decline primarily driven by reduced sales in landscaping products.
-7.	The accounts with gross profit below the national average in Canada included Nader-Pacocha and O’Kon-Daniel, along with ‘Gerlach, Cassin, Parker’ and Mann Group.
-8.	Canada also experienced a decrease in product quantity sold in 2024, with 5,000 fewer units sold compared to 2023.
+🪴 Sharp profit downturns in February for indoor plants and October for outdoor plants
+
+💹 April was the most profitable month in 2023, with November close behind
+
+📉 A few accounts significantly underperformed despite overall strong performance
+
+📊 Gross profit margin in 2023 was 39.62%, a $265K YoY decline
+
+Canada saw its lowest sales in April 2024 (−$73K), driven by landscaping products
+
+🧾 Accounts with below-average gross profit in Canada: Nader-Pacocha, O’Kon-Daniel, Gerlach-Cassin-Parker, and Mann Group
+
+📦 A decrease of 5,000 units sold in Canada in 2024 compared to 2023
